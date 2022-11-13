@@ -1,0 +1,29 @@
+CALIBRATION:
+  CALIBRATION_PATH: null
+  USE_CALIBRATION: Either 0 or 1
+LOGGING_INFO:
+  DATASET_NAME: DATASET_NAME
+  DATE: YYYY/MM/DD
+  TIME: 'HH:MM:SS #--- not necessary!'
+OUTPUT:
+  PATH: /output_path/
+PTV:
+  BACKGROUND:
+    BACKGROUND_PATH: /path_to_background/
+    FIRST_IMAGE: 0
+    LAST_IMAGE: 2725
+  BINARIZATION_THRESHOLD: 3
+  GAMMA_VALUE: null
+  MAXIMUM_DIAMETER: 20
+  MINIMUM_DIAMETER: 10
+  PROCESSING:
+    FIRST_IMAGE: 1
+    LAST_IMAGE: 2726
+  ROI:
+    CMAX: 1024
+    CMIN: 0
+    RMAX: 1024
+    RMIN: 0
+  USE_INERP: Either 0 or 1. 0 = detects point-like particles. 1 = detects spherical
+    finite size objects
+RAW_IMAGE_PATH: /raw_image_path/
