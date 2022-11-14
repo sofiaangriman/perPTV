@@ -50,7 +50,7 @@ The code was developed to track point-like particles and spherical, finite-size 
 It has been mostly used to study particle dynamics in a turbulent von Kármán experiment, set up in the Fluids and Plasmas laboratory of the Physics Department, University of Buenos Aires. Some of the results can be found in the following references:
 
 1. S. Angriman, A. Ferran, F. Zapata, P. J. Cobelli, M. Obligado & P. D. Mininni. [_Clustering in
-laboratory and numerical turbulent swirling flows_](https://doi.org/10.1103/PhysRevFluids.5.064605). J. Fluid Mech., Volume 948, A30 (2022).
+laboratory and numerical turbulent swirling flows_](https://doi.org/10.1017/jfm.2022.713). J. Fluid Mech., Volume 948, A30 (2022).
 
 2. S. Angriman, P. D. Mininni & P.J. Cobelli. [_Multitime structure functions and the Lagrangian scaling of turbulence_](https://doi.org/10.1103/PhysRevFluids.7.064603). Phys. Rev. Fluids 7, 064603 (2022).
 
